@@ -1,2 +1,4 @@
 # chip_esp01_btns
-button shields for ESP01
+button shield for ESP01
+### About
+![alt text](https://github.com/JerryCFox/chip_esp01_btns/raw/master/breadboard.png)
